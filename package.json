@@ -38,8 +38,8 @@
     "jquery": "^3.6.0"
   },
   "devDependencies": {
-    "eslint": "^8.18.0",
-    "terser": "^5.14.1",
-    "qunit": "^2.19.1"
+    "eslint": "^8.20.0",
+    "qunit": "^2.19.1",
+    "terser": "^5.14.2"
   }
 }
