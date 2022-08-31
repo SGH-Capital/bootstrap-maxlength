@@ -35,11 +35,11 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.6.0"
+    "jquery": "^3.6.1"
   },
   "devDependencies": {
-    "eslint": "^8.20.0",
+    "eslint": "^8.23.0",
     "qunit": "^2.19.1",
-    "terser": "^5.14.2"
+    "terser": "^5.15.0"
   }
 }
