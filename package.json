@@ -34,12 +34,14 @@
     "dist": "terser src/bootstrap-maxlength.js -o dist/bootstrap-maxlength.min.js -c --source-map"
   },
   "dependencies": {
-    "bootstrap": "^4.4.1",
     "jquery": "^3.6.1"
   },
   "devDependencies": {
     "eslint": "^8.23.0",
     "qunit": "^2.19.1",
     "terser": "^5.15.0"
+  },
+  "peerDependencies": {
+    "bootstrap": "^4.4.1"
   }
 }
