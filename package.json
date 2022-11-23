@@ -37,9 +37,9 @@
     "jquery": "^3.6.1"
   },
   "devDependencies": {
-    "eslint": "^8.23.0",
-    "qunit": "^2.19.1",
-    "terser": "^5.15.0"
+    "eslint": "^8.28.0",
+    "qunit": "^2.19.3",
+    "terser": "^5.15.1"
   },
   "peerDependencies": {
     "bootstrap": "^4.4.1"
