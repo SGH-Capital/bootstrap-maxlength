@@ -1,14 +1,14 @@
 {
-  "name": "bootstrap-maxlength",
-  "version": "1.10.0",
+  "name": "@sgh-capital/bootstrap-maxlength",
+  "version": "1.10.1",
   "version_short": "1.10",
   "description": "A visual feedback indicator for the MaxLength attribute",
   "main": "dist/bootstrap-maxlength.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mimo84/bootstrap-maxlength.git"
+    "url": "git@github.com:SGH-Capital/bootstrap-maxlength.git"
   },
-  "homepage": "https://github.com/mimo84/bootstrap-maxlength",
+  "homepage": "https://github.com/SGH-Capital/bootstrap-maxlength",
   "keywords": [
     "form",
     "maxlength",
