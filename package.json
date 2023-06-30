@@ -1,6 +1,6 @@
 {
   "name": "@sgh-capital/bootstrap-maxlength",
-  "version": "1.10.1",
+  "version": "1.10.2",
   "version_short": "1.10",
   "description": "A visual feedback indicator for the MaxLength attribute",
   "main": "dist/bootstrap-maxlength.js",
@@ -37,12 +37,12 @@
     "dist": "terser src/bootstrap-maxlength.js -o dist/bootstrap-maxlength.min.js -c --source-map"
   },
   "dependencies": {
-    "jquery": "^3.6.4"
+    "jquery": "^3.7.0"
   },
   "devDependencies": {
-    "eslint": "^8.38.0",
+    "eslint": "^8.43.0",
     "qunit": "^2.19.4",
-    "terser": "^5.16.9"
+    "terser": "^5.18.2"
   },
   "peerDependencies": {
     "bootstrap": "^4.4.1"
