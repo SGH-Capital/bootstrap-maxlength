@@ -40,7 +40,7 @@
     "jquery": "^3.7.0"
   },
   "devDependencies": {
-    "eslint": "^8.45.0",
+    "eslint": "^8.47.0",
     "qunit": "^2.19.4",
     "terser": "^5.19.2"
   },
