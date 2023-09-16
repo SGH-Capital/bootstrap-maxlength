@@ -1,6 +1,6 @@
 {
   "name": "@sgh-capital/bootstrap-maxlength",
-  "version": "1.10.4",
+  "version": "1.10.5",
   "version_short": "1.10",
   "description": "A visual feedback indicator for the MaxLength attribute",
   "main": "dist/bootstrap-maxlength.js",
@@ -45,6 +45,6 @@
     "terser": "^5.19.4"
   },
   "peerDependencies": {
-    "bootstrap": "^4.4.1"
+    "bootstrap": "^4.6.0"
   }
 }
