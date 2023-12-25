@@ -1,6 +1,6 @@
 {
   "name": "@sgh-capital/bootstrap-maxlength",
-  "version": "1.10.5",
+  "version": "1.10.6",
   "version_short": "1.10",
   "description": "A visual feedback indicator for the MaxLength attribute",
   "main": "dist/bootstrap-maxlength.js",
