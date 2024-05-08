@@ -42,9 +42,7 @@
   "devDependencies": {
     "eslint": "^8.57.0",
     "qunit": "^2.20.1",
-    "terser": "^5.31.0"
-  },
-  "peerDependencies": {
+    "terser": "^5.31.0",
     "bootstrap": "^4.6.0"
   }
 }
